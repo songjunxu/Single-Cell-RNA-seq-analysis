@@ -8,5 +8,5 @@ Bhattacherjee et al 2019
 Cell type-specific transcriptional programs in mouse prefrontal cortex during adolescence and addiction
 
 http://djeknad.pythonanywhere.com/download/
-## Devonvolution of bulk tissue data into single-cell profiles using MuSic
+## Deconvolution of bulk tissue data into single-cell profiles using MuSic
 https://github.com/xuranw/MuSiC
